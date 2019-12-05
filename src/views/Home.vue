@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <rich-tiny></rich-tiny>
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
